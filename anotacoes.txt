@@ -19,3 +19,19 @@ git config --global user.email "seuemail@exemplo.com"
 
 Anotações:
 O --global significa que essa configuração é válida para todos os repositórios na sua máquina.
+
+#Criando um repositório Local:
+Dentro da pasta criada com o projeto (Open GitBash Here)
+
+#Adicione o arquivo ao controle do Git e confirme a alteração:
+Escrever: git init
+Após ter criado um arquivo, por exemplo teste.txt
+Escrever: **git add teste.txt**, ou se quiser adicionar todos os arquivos **git add .**
+Escrever: git commit -m "Adiciona arquivo teste.txt"
+
+IMPORTANTE: 
+git add: Prepara os arquivos para o commit.
+git commit: Salva as alterações no histórico do repositório. (O commit deve ter uma mensagem clara que descreva o que foi feito.)
+
+
+
