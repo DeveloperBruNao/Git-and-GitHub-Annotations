@@ -12,3 +12,10 @@ Anotações:
 Controle de versão: Permite que você volte a versões anteriores do código.
 Git é instalado localmente; GitHub é uma plataforma online.
 Repositórios são onde seu código e histórico de versões são armazenados.
+
+- Configuração do Git:
+git config --global user.name "Seu Nome"
+git config --global user.email "seuemail@exemplo.com"
+
+Anotações:
+O --global significa que essa configuração é válida para todos os repositórios na sua máquina.
