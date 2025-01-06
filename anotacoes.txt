@@ -1,0 +1,14 @@
+Minha documentação de Git e GitHub 
+
+ROADMAP
+
+- O que é Git
+Git é um sistema de controle de versão distribuído, usado para rastrear alterações no código e facilitar o trabalho em equipe.
+
+- O que é GitHub?
+GitHub é uma plataforma para hospedar repositórios Git, colaborando em projetos e armazenando o código online.
+
+Anotações:
+Controle de versão: Permite que você volte a versões anteriores do código.
+Git é instalado localmente; GitHub é uma plataforma online.
+Repositórios são onde seu código e histórico de versões são armazenados.
