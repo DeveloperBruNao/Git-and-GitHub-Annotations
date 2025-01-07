@@ -33,5 +33,14 @@ IMPORTANTE:
 git add: Prepara os arquivos para o commit.
 git commit: Salva as alterações no histórico do repositório. (O commit deve ter uma mensagem clara que descreva o que foi feito.)
 
+Criando e Subindo para o GitHub
+- Criar um novo Repositório no GitHub (NewRepository)
+
+**Conectar o repositório local ao GitHub**
+git remote add origin (https do repositório do git) -Isso conecta seu repositório local ao remoto no GitHub.
+
+**Envie os arquivos para o GitHub**
+git push -u origin master
+
 
 
