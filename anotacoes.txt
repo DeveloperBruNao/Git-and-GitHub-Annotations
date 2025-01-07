@@ -47,6 +47,17 @@ git add . (Adicione as mudanças ao Git)
 git commit -m "Descrição das alterações" (Confirme as mudanças)
 git push (Envie para o GitHub)
 
+#Branches e Colaboração
+. Criação de branches (Branches permitem trabalhar em novas funcionalidades sem afetar o código principal.
+Exemplo de criação de uma branch:)
+git checkout -b nova-feature (cria e muda para a nova branch)
+
+. Unindo branches ao código principal (Depois de terminar as alterações na branch, volte para a branch principal e faça o merge)
+git checkout main
+git merge nova-feature
+
+. Trabalho corabolativo (Para pegar alterações de outros colaboradores)
+git pull
 
 
 
