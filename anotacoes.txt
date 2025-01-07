@@ -42,5 +42,13 @@ git remote add origin (https do repositório do git) -Isso conecta seu repositó
 **Envie os arquivos para o GitHub**
 git push -u origin master
 
+#Ciclo básico de Trabalho
+git add . (Adicione as mudanças ao Git)
+git commit -m "Descrição das alterações" (Confirme as mudanças)
+git push (Envie para o GitHub)
+
+
+
+
 
 
