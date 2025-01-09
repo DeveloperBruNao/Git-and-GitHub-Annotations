@@ -4,18 +4,19 @@
 - Local: Repositório da sua maquina.
 - Remoto: Repositório hospedado na plataforma do GitHub
 
-2. Commit:
+#. Commit:
 Um snapshot (foto instantanea) do estado atual do código.
 Contém a mensagem de descrição e informações sobre quem fez a mudança.
 
-3. Branch(Ramificação):
+#. Branch(Ramificação):
 . Uma linha separada de desenvolvimento que permite trabalhar em funcionalidades sem afetar o código principal.
 
-4. Staging Area:
+#. Staging Area:
 . Local intermediário onde você prepara os arquivos para serem confirmados no commit.
 
-5. HEAD:
+#. HEAD:
 Aponta para o commit atual ou a branch onde estou trabalhando.
 
 Dica: Para me perguntar sempre:
 . Os arquivos estão no working directory, staging area ou no histórico do commit?
+
