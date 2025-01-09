@@ -59,6 +59,19 @@ git merge nova-feature
 . Trabalho corabolativo (Para pegar alterações de outros colaboradores)
 git pull
 
+#Recursos adicionais
+Para ver históricos de commit:
+git log
+(Se quiser ver, de uma forma menor, git log oneline)
+
+. Reverter alterações:
+Desfazer um arquivo antes do commit:
+git checkout -- nome-do-arquivo
+
+. Clonar repositório
+git clone https://github.com/usuario/repo.git
+
+
 
 
 
